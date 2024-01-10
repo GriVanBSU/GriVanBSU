@@ -17,9 +17,9 @@
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="75" height="75" />
 </div>
 <br><br>
-## 📚 Libraries I work with:
-|            |            |
-|    Java    |     C++    |
+## 📚 Libraries I work with
+
+|    Java    |    C++     |
 |------------|------------|
 | JFrame     |   Win32++  |
 | Json libs  |Boost.WinAPI|
