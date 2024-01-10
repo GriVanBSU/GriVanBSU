@@ -18,6 +18,7 @@
 </div>
 <br><br>
 ## 📚 Libraries I work with:
+|            |            |
 |    Java    |     C++    |
 |------------|------------|
 | JFrame     |   Win32++  |
