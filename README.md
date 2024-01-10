@@ -1,22 +1,22 @@
 # Hi there, I'm Grinevski Ivan 👋
 ## This is my GitHub account!
 ## My specialization is industrial software development with unit test coverage.
-
+<br><br>
 ## The platform where I level up my coding skills
 ## 🔗 Coding skill
 - [CodeWars account](https://www.codewars.com/users/GriVanBSU)
-
+<br><br>
 ## 📖 Literature studied
 - Kent Beck - Extreme Programming
 - Bruce Eckel - Java Philosophy
 - Robert Lafore - Object-Oriented Programming
-
+<br><br>
 ## 💻 Programing languages:
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" style="width: 75px; height: 75px; margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="75" height="75" />
 </div>
-
+<br><br>
 ## 📚 Libraries I work with:
 |    Java    |     C++    |
 |------------|------------|
@@ -40,6 +40,6 @@
 - Strong communication skills
 - Stress resistance
 - Knowledge of the English language
-
+<br><br>
 ## What about me:
 ### Beginner programmer (student). After graduation, I plan to work in the development field, preferably with the Java language (Web development, Backend), but have not yet decided specifically where.
