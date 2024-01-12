@@ -28,6 +28,8 @@
 
 ## What about my skill(Java, C++):
 - Knowledge of Java Core
+- Deep knowledge of mathematical analysis
+- Deep understanding of integral calculus.
 - Frameworks and libraries (JFrame, Crypto, Libraries for arithmetic expression calculation)
 - Working with design patterns (Builder, Decorator (to a lesser extent))
 - Ability to work with integrated development environments (IDEs) such as IntelliJ IDEA and Microsoft Visual Studio (2022)
