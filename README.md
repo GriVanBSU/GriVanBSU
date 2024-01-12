@@ -45,4 +45,4 @@
 - Knowledge of the English language
 <br><br>
 ## What about me:
-### Beginner programmer (student). After graduation, I plan to work in the development field, preferably with the Java language (Web development, Backend), but have not yet decided specifically where.
+### Beginner programmer (student BSU FAMCS. Specialty - applied mathematics). After graduation, I plan to work in the development field, preferably with the Java language (Web development, Backend), but have not yet decided specifically where.
