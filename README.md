@@ -18,8 +18,6 @@
 </div>
 <br><br>
 
-### 🏆Trophies
-![trophy (https://github-profile-trophy.vercel.app/?username=GriVanBSU&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📚 Libraries I work with
 
