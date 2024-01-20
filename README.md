@@ -35,7 +35,6 @@
 - Ability to work with integrated development environments (IDEs) such as IntelliJ IDEA and Microsoft Visual Studio (2022)
 - Testing and debugging (Unit tests)
 - Knowledge of C++ Core
-- Memory management
 - Multithreaded programming (also using the thread library)
 - WinApi
 - Algorithms and data structures
