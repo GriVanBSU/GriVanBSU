@@ -17,6 +17,10 @@
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="75" height="75" />
 </div>
 <br><br>
+
+### 🏆Trophies
+![trophy (https://github-profile-trophy.vercel.app/?username=GriVanBSU&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📚 Libraries I work with
 
 |    Java    |    C++     |
